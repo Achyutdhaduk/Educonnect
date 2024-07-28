@@ -5,11 +5,11 @@ Online Course Management System
 Certainly! Here's a sample README content for a project called "EduConnect," which is designed to function similarly to GitHub, focusing on educational resources and collaboration:
 
 ## Overview
-EduConnect is a platform designed to facilitate collaboration and sharing of educational resources among students, teachers, and educational institutions. Inspired by GitHub, EduConnect provides a space for users to host, share, and collaborate on educational materials, including lecture notes, assignments, projects, and more.
+EduConnect is a platform designed to facilitate collaboration and sharing of educational resources among students, teachers, and academic institutions. Inspired by GitHub, EduConnect provides a space for users to host, share, and collaborate on educational materials, including lecture notes, assignments, projects, and more.
 
 ## Features
 - **Repository Management**: Create, manage, and organize repositories for various subjects or topics.
-- **Collaboration**: Work together on educational projects with peers, teachers, or collaborators.
+- **Collaboration**: Work with peers, teachers, or collaborators on educational projects.
 - **Version Control**: Track changes to documents and materials, with history and rollback capabilities.
 - **Resource Sharing**: Share lecture notes, assignments, projects, and other educational content with the community.
 - **User Profiles**: Customize your profile with your educational background, interests, and contributions.
@@ -18,8 +18,7 @@ EduConnect is a platform designed to facilitate collaboration and sharing of edu
 ## Getting Started
 
 ### Prerequisites
-- [Node.js](https://nodejs.org/) (version X.X.X or later)
-- [Git](https://git-scm.com/) (version X.X.X or later)
+- [Node.js](https://nodejs.org/) (version 18 or later)
 - A code editor (e.g., [Visual Studio Code](https://code.visualstudio.com/))
 
 ### Installation
